@@ -1,0 +1,15 @@
+site_name: RayNet
+repo_url: https://github.com/paschalidoud/raynet
+theme: readthedocs
+site_dir: output
+pages:
+- Home: 'index.md'
+- Documentation:
+  - Installation: 'installation.md'
+  - Getting started: 'getting-started.md'
+  - Console applications: 'console-applications.md'
+  - Contribution: 'contribution.md'
+- Examples:
+  - Designing and training your own Multi-View CNN: 'custom-mvcnn.md'
+  - Qualitative Results from DTU Dataset: 'dtu-results.md'
+  - Qualitative Results from Aerial Dataset: 'restrepo-results.md'

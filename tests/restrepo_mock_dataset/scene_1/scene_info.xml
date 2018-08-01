@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bwm_info_for_boxm2>
+  <bbox maxx="5.0" maxy="5" maxz="1.5" minx="-5" miny="-5.0 " minz="-0.7">
+  </bbox>
+  <resolution val="0.01">
+  </resolution>
+  <ntrees ntrees_x="48" ntrees_y="48" ntrees_z="48">
+  </ntrees>
+</bwm_info_for_boxm2> 
