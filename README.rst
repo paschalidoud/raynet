@@ -4,6 +4,8 @@ RayNet
 This python pachage provides the code that accompanies our CVPR 2018 paper with
 title **RayNet: Learning Volumetric 3D Reconstruction with Ray Potentials**.
 
+.. image:: http://raynet-mvs.com/site/raynet_teaser.png
+
 Dependencies & Installation
 ---------------------------
 
