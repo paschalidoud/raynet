@@ -44,19 +44,3 @@ pip install --user -e .
 As soon as the installation is completed you can now start using/editing our
 nice library :-)
 
-Download data
--------------
-
-After you have successfully installed our library, you can start downloading
-the two datasets we used for our CVPR 2018 paper. We tested our method on two
-challenging datasets
-
-* [Aerial dataset](https://www.sciencedirect.com/science/article/pii/S0924271614002354)
-* [DTU Multi-view stereo benchmark](https://link.springer.com/article/10.1007/s11263-016-0902-9)
-
-The **DTU dataset** can be download from
-[here](http://roboimagedata.compute.dtu.dk/?page_id=36), while the **Aerial
-dataset** can be downloaded from
-[here](http://raynet-mvs.com/site/providence_data.tar.gz). In case you use any
-of these datasets please do not forget to cite the corresponding papers
-mentioned above.
