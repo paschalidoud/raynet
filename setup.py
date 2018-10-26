@@ -5,6 +5,7 @@ from os import path
 from setuptools import find_packages, setup
 from setuptools.extension import Extension
 from subprocess import Popen
+import numpy
 
 
 def collect_docstring(lines):
@@ -49,11 +50,11 @@ def setup_package():
     extensions = [
         Extension(
             "raynet.utils.fast_utils",
-            ["raynet/utils/fast_utils.pyx"]
+            ["raynet/utils/fast_utils.pyx"], include_dirs=[numpy.get_include()]
         ),
         Extension(
             "raynet.ray_marching.ray_tracing",
-            ["raynet/ray_marching/ray_tracing.pyx"]
+            ["raynet/ray_marching/ray_tracing.pyx"], include_dirs=[numpy.get_include()]
         )
     ]
 
