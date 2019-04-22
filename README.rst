@@ -1,7 +1,7 @@
 RayNet
 ======
 
-This python pachage provides the code that accompanies our CVPR 2018 paper with
+This python package provides the code that accompanies our CVPR 2018 paper with
 title **RayNet: Learning Volumetric 3D Reconstruction with Ray Potentials**.
 
 .. image:: http://raynet-mvs.com/site/raynet_teaser.png
@@ -29,9 +29,9 @@ install :-)
 
 Depending on how you want to use our code, there are two alternatives regarding
 installation. You can either use a package manager or download and install the
-library manually. For those who just want to use the library we recommend to
+library manually. For those who just want to use the library, we recommend to
 directly install the latest version from *PyPI*, whereas for those who want to
-be able to edit the code we recommend to install the library manually.
+be able to edit the code, we recommend to install the library manually.
 
 
 * *Install from Pypi with:*
@@ -86,7 +86,7 @@ Below we list some papers that are relevant to the provided code.
 
 Citation
 --------
-If you are using our code, please cite `our paper <http://openaccess.thecvf.com/content_cvpr_2018/papers/Paschalidou_RayNet_Learning_Volumetric_CVPR_2018_paper.pdf>`__.The BibTeX reference is::
+If you are using our code, please cite `our paper <http://openaccess.thecvf.com/content_cvpr_2018/papers/Paschalidou_RayNet_Learning_Volumetric_CVPR_2018_paper.pdf>`__. The BibTeX reference is::
 
  @InProceedings{Paschalidou_2018_CVPR,
     author = {Paschalidou, Despoina and Ulusoy, Osman and Schmitt, Carolin and Van Gool, Luc and Geiger, Andreas},
