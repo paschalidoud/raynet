@@ -31,7 +31,7 @@ Depending on how you want to use our code, there are two alternatives regarding
 installation. You can either use a package manager or download and install the
 library manually. For those who just want to use the library, we recommend to
 directly install the latest version from *PyPI*, whereas for those who want to
-be able to edit the code we recommend to install the library manually.
+be able to edit the code, we recommend to install the library manually.
 
 
 * *Install from Pypi with:*
